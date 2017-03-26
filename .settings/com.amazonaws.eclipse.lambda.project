@@ -1,0 +1,7 @@
+#Lambda Function Project Metadata
+#Sun Mar 26 23:29:55 JST 2017
+lastInvokeShowLiveLog=false
+lastDeploymentFunctionName=HelloFunction
+lastDeploymentBucketName=agnail.lambda.test01
+lastDeploymentEndpoint=https\://lambda.us-west-2.amazonaws.com/
+lastInvokeInput="AWS test3"

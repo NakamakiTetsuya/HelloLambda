@@ -17,7 +17,7 @@ public class HelloTest {
     @BeforeClass
     public static void createInput() throws IOException {
         // TODO: set up your sample input object here.
-        input = null;
+        input = "test";
     }
 
     private Context createContext() {
